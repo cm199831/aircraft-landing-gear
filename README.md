@@ -20,7 +20,7 @@ cd aircraft-landing-gear
 
 - Install the dependecies
 ```
-pip install -e.
+pip install -r requirements.txt.
 ```
 
 - Run the code using the command mentioned below(for real-time detection).
