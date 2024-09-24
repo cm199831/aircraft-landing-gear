@@ -34,11 +34,7 @@ python predict.py
 ![Aircraft Landing Gear](./aircraft.jpg)
 
 #### Demo Video:
-<video width="600" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  <source src="./demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video here](https://your-username.github.io/your-repo/demo.html)
 
 
 
