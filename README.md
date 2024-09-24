@@ -24,9 +24,9 @@ pip install -e.
 ```
 
 -Run the code using the command mentioned below(for real-time detection).
-'''
+```
 python predict.py
-'''
+```
 
 
 
