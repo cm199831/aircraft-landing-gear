@@ -34,7 +34,7 @@ python predict.py
 ![Aircraft Landing Gear](./aircraft.jpg)
 
 #### Demo Video:
-[Watch the demo video here](https://your-username.github.io/your-repo/demo.html)
+[Watch the demo video here](./demo.avi)
 
 
 
