@@ -23,15 +23,21 @@ cd aircraft-landing-gear
 pip install -e.
 ```
 
--Run the code using the command mentioned below(for real-time detection).
+- Run the code using the command mentioned below(for real-time detection).
 ```
 python predict.py
 ```
 
-#### aircraft-landing-gear Detection 
-![](./aircraft.jpg)
+### Aircraft Landing Gear Detection
 
-![](./demo.avi)
+#### Sample Image:
+![Aircraft Landing Gear](./aircraft.jpg)
+
+#### Demo Video:
+<video width="600" controls>
+  <source src="./demo.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
 
 
