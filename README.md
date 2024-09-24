@@ -4,5 +4,16 @@
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8.git
+git clone https://github.com/cm199831/aircraft-landing-gear.git
+```
+
+- Goto the cloned folder.
+```
+cd aircraft-landing-gear
+```
+
+- Install the dependecies
+```
+pip install -e.
+
 ```
